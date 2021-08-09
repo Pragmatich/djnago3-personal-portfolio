@@ -28,7 +28,7 @@ pylint==2.4.4
 pypiwin32==223
 python-dateutil==2.8.1
 pytz==2019.3
-pywin32==227
+pywin32==301
 requests==2.22.0
 rope==0.14.0
 sh==1.12.14
